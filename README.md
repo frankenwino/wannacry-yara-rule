@@ -1,5 +1,5 @@
 # wannacry-yara-rule
-Kaspersky lazarus/wannacryrule https://cdn.securelist.com/files/2017/05/lazaruswannacry.zip
+Kaspersky lazarus/wannacry yara rule https://cdn.securelist.com/files/2017/05/lazaruswannacry.zip
 
 US-CERT wannacry yara rule: https://www.us-cert.gov/ncas/alerts/TA17-132A
 
